@@ -1,4 +1,5 @@
-# tanja-app
+# vue-cli-demo
+A simple vue "employees app". In fact this is the tutorial [getting-started-with-vue](https://www.taniarascia.com/getting-started-with-vue/)
 
 ## Project setup
 ```
